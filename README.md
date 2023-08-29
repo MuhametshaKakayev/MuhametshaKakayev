@@ -33,10 +33,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MuhametshaKakayev&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhametshakakayev&label=Profile%20views&color=0e75b6&style=flat" alt="muhametshakakayev" /> </p>
 
 <p align="left">
 </p>
