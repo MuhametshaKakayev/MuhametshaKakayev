@@ -34,17 +34,8 @@
 [![](https://visitcount.itsvg.in/api?id=MuhametshaKakayev&icon=2&color=4)](https://visitcount.itsvg.in)
 
 
-<p align="left">
-</p>
 
 
 
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhametshakakayev&" alt="muhametshakakayev" /></p>
 
 
